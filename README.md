@@ -1,6 +1,6 @@
 # covid_19_app
 
-A new Flutter project.
+Flutter covid-19 app ui.
 
 ## Getting Started
 
